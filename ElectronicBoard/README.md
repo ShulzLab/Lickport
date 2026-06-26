@@ -123,5 +123,13 @@ All code files are in the [`code`](code/) folder.
 - For a better understanding of capacitance nomenclature (For further reading, here is the website: https://www.electricaltechnology.org/2022/01/capacitor-color-codes.html)
 ![alt text](README.assets/image-4.png)
 
-- Additional photos of the electronic board
-![alt text](README.assets/image-5.png)
+- Additional photos of the electronic board - 
+![alt text](README.assets/image-5.jpeg)
+
+![alt text](README.assets/image-6.jpeg)
+
+![alt text](README.assets/image-7.jpeg)
+
+![alt text](README.assets/image-8.jpeg)
+
+![alt text](README.assets/image-9.jpeg)
