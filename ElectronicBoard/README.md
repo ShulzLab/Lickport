@@ -65,6 +65,11 @@ Before being able to use the board, several components need to be soldered:
 
 Add the components in the right place and solder them (see photos of the assembled board in the appendices)
 
+| Résistances | Condensateur en tantale | Condensateur céramique 104 | Régulateur 3,3V | Régulateur 5V | Carte « Relay2 Click » |
+|--------------|---------------|---------------|--------------|--------------|---------------|
+| ![alt text](README.assets/image-10.png)   | ![alt text](README.assets/image-11.png)   | ![alt text](README.assets/image-12.png)   | ![alt text](README.assets/image-13.png)   | ![alt text](README.assets/image-14.png)   | ![alt text](README.assets/image-15.png)   | ![alt text](README.assets/image-16.png)   |
+
+
 Notes:
 Tantalum capacitors are polarised, so be careful to respect the orientation as shown in the image (the positive side of the capacitor is marked by a small plus sign, and it must be positioned at the square on the board).
 Voltage regulators are also polarised, so care must be taken.
