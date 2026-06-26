@@ -124,12 +124,12 @@ All code files are in the [`code`](code/) folder.
 ![alt text](README.assets/image-4.png)
 
 - Additional photos of the electronic board - 
-![alt text](README.assets/image-5.jpeg)
+![alt text](README.assets/image-5.jpg)
 
-![alt text](README.assets/image-6.jpeg)
+![alt text](README.assets/image-6.jpg)
 
-![alt text](README.assets/image-7.jpeg)
+![alt text](README.assets/image-7.jpg)
 
-![alt text](README.assets/image-8.jpeg)
+![alt text](README.assets/image-8.jpg)
 
-![alt text](README.assets/image-9.jpeg)
+![alt text](README.assets/image-9.jpg)
