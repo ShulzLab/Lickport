@@ -67,7 +67,7 @@ Add the components in the right place and solder them (see photos of the assembl
 
 | Résistances | Condensateur en tantale | Condensateur céramique 104 | Régulateur 3,3V | Régulateur 5V | Carte « Relay2 Click » |
 |--------------|---------------|---------------|--------------|--------------|---------------|
-| ![alt text](README.assets/image-10.png)   | ![alt text](README.assets/image-11.png)   | ![alt text](README.assets/image-12.png)   | ![alt text](README.assets/image-13.png)   | ![alt text](README.assets/image-14.png)   | ![alt text](README.assets/image-15.png)   | ![alt text](README.assets/image-16.png)   |
+| ![alt text](README.assets/image-10.jpg)   | ![alt text](README.assets/image-11.jpg)   | ![alt text](README.assets/image-12.jpg)   | ![alt text](README.assets/image-13.jpg)   | ![alt text](README.assets/image-14.jpg)   | ![alt text](README.assets/image-15.jpg)   | ![alt text](README.assets/image-16.jpg)   |
 
 
 Notes:
